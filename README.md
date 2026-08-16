@@ -38,7 +38,7 @@ Feel free to contribute to this awesome list by submitting a pull request or sug
 * [Qutuf/Qutuf](https://github.com/Qutuf/Qutuf) ⭐ 137 | 🐛 5 | 🌐 Python | 📅 2022-12-12 🌟🌟🌟
   Qutuf (قُطُوْف): An Arabic Morphological analyzer and Part-Of-Speech tagger as an Expert System.
 * [Arabic-BERT](https://github.com/alisafaya/Arabic-BERT) ⭐ 133 | 🐛 2 | 📅 2020-12-05 : Arabic edition of BERT pretrained language models
-* [UBC-NLP/marbert](https://github.com/UBC-NLP/marbert) ⭐ 118 | 🐛 5 | 📅 2021-09-02 🌟🌟🌟
+* [UBC-NLP/marbert](https://github.com/UBC-NLP/marbert) ⭐ 119 | 🐛 5 | 📅 2021-09-02 🌟🌟🌟
   UBC ARBERT and MARBERT Deep Bidirectional Transformers for Arabic.
 * [motazsaad/process-arabic-text](https://github.com/motazsaad/process-arabic-text) ⭐ 107 | 🐛 0 | 🌐 Python | 📅 2017-04-08 🌟🌟🌟
   Pre-process Arabic text (remove diacritics, punctuations, and repeating characters).
@@ -218,4 +218,4 @@ This initial version of the Awesome List was generated with the help of the [Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
