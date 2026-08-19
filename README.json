@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242163521,
             "language": "Python",
             "last_commit": "2022-10-17T00:26:39Z",
             "owner": "aub-mind",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188627468,
             "language": "JavaScript",
             "last_commit": "2024-03-01T05:16:17Z",
             "owner": "ARBML",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112287108,
             "language": "Python",
             "last_commit": "2023-03-25T01:50:27Z",
             "owner": "Barqawiz",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326423100,
             "language": "Python",
             "last_commit": "2024-04-24T13:54:08Z",
             "owner": "mobadarah",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231197063,
             "language": "PHP",
             "last_commit": "2026-06-29T14:21:31Z",
             "owner": "khaled-alshamaa",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59837700,
             "language": null,
             "last_commit": "2024-03-27T00:39:43Z",
             "owner": "mohataher",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237983669,
             "language": "Jupyter Notebook",
             "last_commit": "2022-04-17T21:13:44Z",
             "owner": "abdelrahmaan",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370866767,
             "language": "Python",
             "last_commit": "2026-08-17T17:34:59Z",
             "owner": "TRoboto",
@@ -122,8 +130,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 397681089,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T12:02:52Z",
+            "last_commit": "2026-08-19T10:55:39Z",
             "owner": "ARBML",
             "repo": "masader",
             "stars": 203
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189432402,
             "language": "Python",
             "last_commit": "2023-08-04T02:56:18Z",
             "owner": "husseinmozannar",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259306655,
             "language": "Python",
             "last_commit": "2025-09-11T08:06:36Z",
             "owner": "MagedSaeed",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103699775,
             "language": "Python",
             "last_commit": "2022-12-12T00:05:36Z",
             "owner": "Qutuf",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243804126,
             "language": null,
             "last_commit": "2020-12-05T15:09:07Z",
             "owner": "alisafaya",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 324283628,
             "language": null,
             "last_commit": "2021-09-02T18:02:00Z",
             "owner": "UBC-NLP",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85335953,
             "language": "Python",
             "last_commit": "2017-04-08T17:36:23Z",
             "owner": "motazsaad",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73863341,
             "language": "Python",
             "last_commit": "2024-08-20T16:25:54Z",
             "owner": "iamaziz",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128747626,
             "language": "Python",
             "last_commit": "2019-01-01T11:26:27Z",
             "owner": "saidziani",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129318717,
             "language": "Python",
             "last_commit": "2021-02-07T22:05:14Z",
             "owner": "mohabmes",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 133101298,
             "language": "Python",
             "last_commit": "2021-10-21T18:08:35Z",
             "owner": "adhaamehab",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160785652,
             "language": "Jupyter Notebook",
             "last_commit": "2025-12-27T07:11:02Z",
             "owner": "motazsaad",
@@ -288,8 +308,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:45:07.240Z",
+    "last_updated": "2026-08-19T12:20:06.422Z",
     "original_repository": "Curated-Awesome-Lists/awesome-arabic-nlp",
+    "original_repository_id": 712050614,
     "original_repository_sha": "d3d1e8b4239c65aae4d90f402560e79da034d305",
     "enhanced_repository": "enhansome/enhansome-arabic-nlp",
     "enhanced_repository_description": null,
