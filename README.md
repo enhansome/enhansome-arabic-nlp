@@ -27,7 +27,7 @@ Feel free to contribute to this awesome list by submitting a pull request or sug
 * [ARBML](https://github.com/ARBML/ARBML) ⭐ 423 | 🐛 10 | 🌐 JavaScript | 📅 2024-03-01 : Implementation of many Arabic NLP and CV projects. Providing real-time experience using many interfaces like web, command line, and notebooks. :computer:
 * [Shakkala](https://github.com/Barqawiz/Shakkala) ⭐ 356 | 🐛 5 | 🌐 Python | 📅 2023-03-25 : Deep learning for AR text Vocalization - التشكيل الالي للنصوص العربية :chart\_with\_upwards\_trend:
 * [tajmeeaton](https://github.com/mobadarah/tajmeeaton) ⭐ 342 | 🐛 10 | 🌐 Python | 📅 2024-04-24 : تجميعة من المشاريع، وخصوصا مفتوحة المصدر، للنهوض باللغة العربية والأمة. 👨‍💻 👨‍🔬👨‍🏫🧕
-* [ar-php](https://github.com/khaled-alshamaa/ar-php) ⭐ 339 | 🐛 12 | 🌐 PHP | 📅 2026-06-29 : Set of functionalities enable Arabic website developers to serve professional search, present, and process Arabic content in PHP :globe\_with\_meridians:
+* [ar-php](https://github.com/khaled-alshamaa/ar-php) ⭐ 341 | 🐛 12 | 🌐 PHP | 📅 2026-06-29 : Set of functionalities enable Arabic website developers to serve professional search, present, and process Arabic content in PHP :globe\_with\_meridians:
 * [arabic-stop-words](https://github.com/mohataher/arabic-stop-words) ⭐ 334 | 🐛 1 | 📅 2024-03-27 : Largest list of Arabic stop words on GitHub. أكبر قائمة لمستبعدات الفهرسة العربية على جيت هاب :closed\_book:
 * [Hadith-Data-Sets](https://github.com/abdelrahmaan/Hadith-Data-Sets) ⭐ 325 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-04-17 : All Hadith With Tashkil and Without Tashkeel from the Nine Books that are 62,169 Hadith. :book:
 * [Maha](https://github.com/TRoboto/Maha) ⭐ 217 | 🐛 14 | 🌐 Python | 📅 2026-08-17 : Maha is a text processing library specially developed to deal with Arabic text. :scroll:
@@ -218,4 +218,4 @@ This initial version of the Awesome List was generated with the help of the [Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
