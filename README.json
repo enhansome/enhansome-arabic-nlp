@@ -132,7 +132,7 @@
             "archived": false,
             "id": 397681089,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T16:51:02Z",
+            "last_commit": "2026-08-25T12:29:25Z",
             "owner": "ARBML",
             "repo": "masader",
             "stars": 203
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:41:13.157Z",
+    "last_updated": "2026-08-25T16:51:21.852Z",
     "original_repository": "Curated-Awesome-Lists/awesome-arabic-nlp",
     "original_repository_id": 712050614,
     "original_repository_sha": "d3d1e8b4239c65aae4d90f402560e79da034d305",
