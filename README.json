@@ -15,7 +15,7 @@
             "last_commit": "2022-10-17T00:26:39Z",
             "owner": "aub-mind",
             "repo": "arabert",
-            "stars": 728
+            "stars": 729
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 397681089,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T12:29:25Z",
+            "last_commit": "2026-08-26T13:46:34Z",
             "owner": "ARBML",
             "repo": "masader",
             "stars": 203
@@ -180,7 +180,7 @@
             "last_commit": "2022-12-12T00:05:36Z",
             "owner": "Qutuf",
             "repo": "Qutuf",
-            "stars": 137
+            "stars": 138
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2017-04-08T17:36:23Z",
             "owner": "motazsaad",
             "repo": "process-arabic-text",
-            "stars": 107
+            "stars": 108
           }
         },
         {
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:51:21.852Z",
+    "last_updated": "2026-08-26T16:55:42.961Z",
     "original_repository": "Curated-Awesome-Lists/awesome-arabic-nlp",
     "original_repository_id": 712050614,
     "original_repository_sha": "d3d1e8b4239c65aae4d90f402560e79da034d305",
