@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-trained Transformers for Arabic Language Understanding and Generation (Arabic BERT, Arabic GPT2, Arabic ELECTRA)",
+            "homepage": "https://huggingface.co/aubmindlab",
             "id": 242163521,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-17T00:26:39Z",
+            "open_issues": 2,
             "owner": "aub-mind",
             "repo": "arabert",
-            "stars": 729
+            "stars": 729,
+            "topics": [
+              "arabert",
+              "arabic",
+              "arabic-classification",
+              "arabic-nlp",
+              "bert",
+              "electra",
+              "farasa",
+              "gpt2",
+              "huggingface-transformer"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -26,12 +41,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of many Arabic NLP and CV projects. Providing real time experience using many interfaces like web, command line and notebooks.",
+            "homepage": "https://arbml.github.io/ARBML/Interfaces/Website/",
             "id": 188627468,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-01T05:16:17Z",
+            "open_issues": 10,
             "owner": "ARBML",
             "repo": "ARBML",
-            "stars": 423
+            "stars": 423,
+            "topics": [
+              "arabic",
+              "arabic-nlp",
+              "colab",
+              "demo"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -42,12 +67,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep learning for AR text Vocalization - التشكيل الالي للنصوص العربية",
+            "homepage": "https://shakkala.com",
             "id": 112287108,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-25T01:50:27Z",
+            "open_issues": 5,
             "owner": "Barqawiz",
             "repo": "Shakkala",
-            "stars": 356
+            "stars": 356,
+            "topics": [
+              "arabic-nlp",
+              "deep-learning",
+              "lstm",
+              "rnn"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -58,12 +93,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
+            "homepage": "https://bayoumi.notion.site/52426ea68db64775b83bafc3779351a0?v=305607025bfc80f7baf6000c4f8b4fe8&pvs=73",
             "id": 326423100,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-24T13:54:08Z",
+            "open_issues": 10,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "arabic",
+              "arabic-font",
+              "arabic-language",
+              "arabic-nlp",
+              "arabic-numbers",
+              "awesome",
+              "awesome-list",
+              "islam"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -74,12 +123,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set of functionalities enable Arabic website developers to serve professional search, present and process Arabic content in PHP",
+            "homepage": null,
             "id": 231197063,
             "language": "PHP",
+            "license": "LGPL-3.0",
             "last_commit": "2026-06-29T14:21:31Z",
+            "open_issues": 12,
             "owner": "khaled-alshamaa",
             "repo": "ar-php",
-            "stars": 341
+            "stars": 341,
+            "topics": [
+              "ar-php",
+              "arabic",
+              "arabic-calendar",
+              "arabic-glyphs",
+              "arabic-nlp",
+              "arabic-numbers",
+              "arabic-segments-identifier",
+              "arabic-sentiment",
+              "arabic-sql-queary",
+              "php"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -90,12 +155,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Largest list of Arabic stop words on Github. أكبر قائمة لمستبعدات الفهرسة العربية على جيت هاب",
+            "homepage": null,
             "id": 59837700,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-03-27T00:39:43Z",
+            "open_issues": 1,
             "owner": "mohataher",
             "repo": "arabic-stop-words",
-            "stars": 334
+            "stars": 334,
+            "topics": [
+              "arabic-language",
+              "arabic-nlp",
+              "stopwords"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -106,12 +180,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All Hadith With Tashkil and Without Tashkel from the Nine Books that are 62,169 Hadith.",
+            "homepage": null,
             "id": 237983669,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-04-17T21:13:44Z",
+            "open_issues": 1,
             "owner": "abdelrahmaan",
             "repo": "Hadith-Data-Sets",
-            "stars": 325
+            "stars": 325,
+            "topics": [
+              "allah",
+              "arabic",
+              "arabic-language",
+              "arabic-nlp",
+              "hadith",
+              "hadith-books",
+              "islam",
+              "muslim",
+              "sunnah"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -122,12 +211,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Maha is a text processing library specially developed to deal with Arabic text.",
+            "homepage": null,
             "id": 370866767,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-17T17:34:59Z",
+            "open_issues": 14,
             "owner": "TRoboto",
             "repo": "Maha",
-            "stars": 217
+            "stars": 217,
+            "topics": [
+              "arabic-cleaners",
+              "arabic-nlp",
+              "arabic-parsers",
+              "arabic-text"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -138,12 +237,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The largest public catalogue for Arabic NLP and speech datasets. There are +500 datasets annotated with more than 25 attributes. ",
+            "homepage": "https://arbml.github.io/masader/",
             "id": 397681089,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T21:38:36Z",
+            "open_issues": 61,
             "owner": "ARBML",
             "repo": "masader",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "arabic-nlp",
+              "catalogue",
+              "datasets",
+              "public"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -154,12 +263,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arabic Open Domain Question Answering System using Neural Reading Comprehension",
+            "homepage": null,
             "id": 189432402,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-04T02:56:18Z",
+            "open_issues": 5,
             "owner": "husseinmozannar",
             "repo": "SOQAL",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "arabic",
+              "arabic-language",
+              "arabic-nlp",
+              "deep-learning",
+              "nlp",
+              "question-answering",
+              "reading-comprehension",
+              "tf-idf"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -170,12 +293,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python implementation of Farasa toolkit",
+            "homepage": null,
             "id": 259306655,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-11T08:06:36Z",
+            "open_issues": 4,
             "owner": "MagedSaeed",
             "repo": "farasapy",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "arabic",
+              "arabic-nlp",
+              "diacritization",
+              "farasa",
+              "named-entity-recognition",
+              "nlp",
+              "postagging",
+              "python-library",
+              "python3",
+              "python36",
+              "stemmers",
+              "tokenizer"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -186,12 +327,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qutuf (قُطُوْف): An Arabic Morphological analyzer and Part-Of-Speech tagger as an Expert System.",
+            "homepage": "http://Qutuf.com",
             "id": 103699775,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-12T00:05:36Z",
+            "open_issues": 5,
             "owner": "Qutuf",
             "repo": "Qutuf",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "arabic",
+              "arabic-language",
+              "arabic-morphology",
+              "arabic-nlp",
+              "arabic-tagger",
+              "expert-system",
+              "heavy-stemming",
+              "lemmatization",
+              "light-stemming",
+              "morphological-analysis",
+              "overdue-tagging",
+              "part-of-speech-tagger",
+              "pattern-matching",
+              "pos-tagging",
+              "premature-tagging",
+              "role-based",
+              "root-extraction",
+              "rooting",
+              "stemmer",
+              "stemming"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -202,12 +369,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arabic edition of BERT pretrained language models",
+            "homepage": null,
             "id": 243804126,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-12-05T15:09:07Z",
+            "open_issues": 2,
             "owner": "alisafaya",
             "repo": "Arabic-BERT",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "arabic",
+              "arabic-nlp",
+              "bert",
+              "bert-language-models",
+              "language-model",
+              "nlp",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -218,12 +398,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UBC ARBERT and MARBERT Deep Bidirectional Transformers for Arabic ",
+            "homepage": null,
             "id": 324283628,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-02T18:02:00Z",
+            "open_issues": 5,
             "owner": "UBC-NLP",
             "repo": "marbert",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "arabic",
+              "arabic-dialects",
+              "arabic-language",
+              "arabic-models",
+              "arabic-nlp",
+              "arbert",
+              "awesome",
+              "benchmark",
+              "bert",
+              "bert-model",
+              "classification",
+              "deep-learning",
+              "huggingface-transformers",
+              "language-models",
+              "marbert",
+              "model-evaluation",
+              "social-media",
+              "ubc",
+              "ubc-dlnlp",
+              "ubcnlp"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -234,12 +440,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-process arabic text (remove diacritics, punctuations and repeating characters) ",
+            "homepage": null,
             "id": 85335953,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2017-04-08T17:36:23Z",
+            "open_issues": 0,
             "owner": "motazsaad",
             "repo": "process-arabic-text",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "arabic-nlp",
+              "punctuation",
+              "remove-diacritics"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -250,12 +465,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sentiment Analysis for Arabic Text (tweets, reviews, and standard Arabic) using word2vec",
+            "homepage": "https://huggingface.co/azizalto/arabic-news-embeddings",
             "id": 73863341,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-20T16:25:54Z",
+            "open_issues": 3,
             "owner": "iamaziz",
             "repo": "ar-embeddings",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "arabic",
+              "arabic-embedding",
+              "arabic-nlp",
+              "arabic-sentiment",
+              "embeddings",
+              "sentiment-analysis",
+              "word2vec",
+              "word2vec-model"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -266,12 +495,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic categorization of documents, consists in assigning a category to a text based on the information it contains. We'll follow different approach of Supervised Machine Learning.",
+            "homepage": null,
             "id": 128747626,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-01-01T11:26:27Z",
+            "open_issues": 3,
             "owner": "saidziani",
             "repo": "Arabic-News-Article-Classification",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "arabic-language",
+              "arabic-nlp",
+              "corpora",
+              "machine-learning",
+              "nlp",
+              "nltk",
+              "python3",
+              "text-categorization"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -282,12 +525,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arabic NLP tool used to perform Text Search, POS tagging, Translation, auto-diacritization, etc..",
+            "homepage": null,
             "id": 129318717,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-02-07T22:05:14Z",
+            "open_issues": 4,
             "owner": "mohabmes",
             "repo": "Arabycia",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "arabic-language",
+              "arabic-nlp",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -298,12 +550,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Arabic support for textblob",
+            "homepage": "https://github.com/sloria/TextBlob",
             "id": 133101298,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-21T18:08:35Z",
+            "open_issues": 17,
             "owner": "adhaamehab",
             "repo": "textblob-ar",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "arabic-language",
+              "arabic-nlp",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "part-of-speech-tagger",
+              "sentiment-analysis",
+              "spelling-correction",
+              "text-classification",
+              "text-similarity",
+              "textblob",
+              "word-embeddings"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         },
@@ -314,12 +584,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sentiment Analysis in Arabic tweets ",
+            "homepage": null,
             "id": 160785652,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-27T07:11:02Z",
+            "open_issues": 1,
             "owner": "motazsaad",
             "repo": "arabic-sentiment-analysis",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "arabic-nlp",
+              "sentiment-analysis",
+              "sentiment-classification",
+              "tweets"
+            ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
         }
@@ -328,15 +608,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:32:26.923Z",
+    "last_updated": "2026-08-29T05:03:24.191Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
+      "homepage": null,
       "id": 712050614,
       "language": null,
+      "license": null,
       "last_commit": "2023-10-30T17:34:40Z",
+      "open_issues": 3,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-arabic-nlp",
-      "stars": 64
+      "stars": 64,
+      "topics": [
+        "arabic",
+        "arabic-language",
+        "arabic-nlp",
+        "awesome-list",
+        "machine-learning",
+        "natural-language-processing",
+        "nlp-resources"
+      ]
     },
     "original_repository_sha": "d3d1e8b4239c65aae4d90f402560e79da034d305",
     "enhanced_repository": "enhansome/enhansome-arabic-nlp",
