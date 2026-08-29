@@ -16,7 +16,8 @@
             "owner": "aub-mind",
             "repo": "arabert",
             "stars": 729
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "ARBML",
             "repo": "ARBML",
             "stars": 423
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Barqawiz",
             "repo": "Shakkala",
             "stars": 356
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2024-04-24T13:54:08Z",
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 342
-          }
+            "stars": 343
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "khaled-alshamaa",
             "repo": "ar-php",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mohataher",
             "repo": "arabic-stop-words",
             "stars": 334
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "abdelrahmaan",
             "repo": "Hadith-Data-Sets",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "TRoboto",
             "repo": "Maha",
             "stars": 217
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -132,11 +140,12 @@
             "archived": false,
             "id": 397681089,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T21:36:30Z",
+            "last_commit": "2026-08-28T21:38:36Z",
             "owner": "ARBML",
             "repo": "masader",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "husseinmozannar",
             "repo": "SOQAL",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "MagedSaeed",
             "repo": "farasapy",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "Qutuf",
             "repo": "Qutuf",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "alisafaya",
             "repo": "Arabic-BERT",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "UBC-NLP",
             "repo": "marbert",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "motazsaad",
             "repo": "process-arabic-text",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "iamaziz",
             "repo": "ar-embeddings",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "saidziani",
             "repo": "Arabic-News-Article-Classification",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "mohabmes",
             "repo": "Arabycia",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "adhaamehab",
             "repo": "textblob-ar",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         },
         {
           "node_type": "item",
@@ -301,14 +320,15 @@
             "owner": "motazsaad",
             "repo": "arabic-sentiment-analysis",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
         }
       ],
       "title": "GitHub projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:50:46.348Z",
+    "last_updated": "2026-08-29T00:32:26.923Z",
     "original_repository_info": {
       "archived": false,
       "id": 712050614,
