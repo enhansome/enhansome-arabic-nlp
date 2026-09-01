@@ -31,7 +31,7 @@ Feel free to contribute to this awesome list by submitting a pull request or sug
 * [arabic-stop-words](https://github.com/mohataher/arabic-stop-words) ⭐ 334 | 🐛 1 | 📅 2024-03-27 : Largest list of Arabic stop words on GitHub. أكبر قائمة لمستبعدات الفهرسة العربية على جيت هاب :closed\_book:
 * [Hadith-Data-Sets](https://github.com/abdelrahmaan/Hadith-Data-Sets) ⭐ 325 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-04-17 : All Hadith With Tashkil and Without Tashkeel from the Nine Books that are 62,169 Hadith. :book:
 * [Maha](https://github.com/TRoboto/Maha) ⭐ 217 | 🐛 14 | 🌐 Python | 📅 2026-08-31 : Maha is a text processing library specially developed to deal with Arabic text. :scroll:
-* [ARBML/masader](https://github.com/ARBML/masader) ⭐ 203 | 🐛 62 | 🌐 JavaScript | 📅 2026-08-29 🌟🌟🌟  The largest public catalogue for Arabic NLP and speech datasets. Includes +500 datasets annotated with more than 25 attributes.
+* [ARBML/masader](https://github.com/ARBML/masader) ⭐ 203 | 🐛 64 | 🌐 JavaScript | 📅 2026-08-31 🌟🌟🌟  The largest public catalogue for Arabic NLP and speech datasets. Includes +500 datasets annotated with more than 25 attributes.
 * [SOQAL](https://github.com/husseinmozannar/SOQAL) ⭐ 167 | 🐛 5 | 🌐 Python | 📅 2023-08-04 : Arabic Open Domain Question Answering System using Neural Reading Comprehension :question:
 * [MagedSaeed/farasapy](https://github.com/MagedSaeed/farasapy) ⭐ 144 | 🐛 4 | 🌐 Python | 📅 2025-09-11 🌟🌟🌟
   A Python implementation of the Farasa toolkit.
@@ -218,4 +218,4 @@ This initial version of the Awesome List was generated with the help of the [Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
