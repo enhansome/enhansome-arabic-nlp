@@ -128,7 +128,7 @@
             "id": 231197063,
             "language": "PHP",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-31T12:21:32Z",
+            "last_commit": "2026-09-02T11:31:55Z",
             "open_issues": 12,
             "owner": "khaled-alshamaa",
             "repo": "ar-php",
@@ -302,7 +302,7 @@
             "open_issues": 4,
             "owner": "MagedSaeed",
             "repo": "farasapy",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "arabic",
               "arabic-nlp",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:21:45.944Z",
+    "last_updated": "2026-09-02T19:21:42.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
@@ -617,7 +617,7 @@
       "language": null,
       "license": null,
       "last_commit": "2023-10-30T17:34:40Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-arabic-nlp",
       "stars": 64,
