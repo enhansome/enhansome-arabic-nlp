@@ -76,7 +76,7 @@
             "open_issues": 5,
             "owner": "Barqawiz",
             "repo": "Shakkala",
-            "stars": 356,
+            "stars": 355,
             "topics": [
               "arabic-nlp",
               "deep-learning",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:16:19.408Z",
+    "last_updated": "2026-09-04T18:58:01.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
