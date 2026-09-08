@@ -88,36 +88,6 @@
         },
         {
           "node_type": "item",
-          "title": "tajmeeaton",
-          "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر، للنهوض باللغة العربية والأمة. 👨‍💻 👨‍🔬👨‍🏫🧕",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
-            "homepage": "https://bayoumi.notion.site/52426ea68db64775b83bafc3779351a0?v=305607025bfc80f7baf6000c4f8b4fe8&pvs=73",
-            "id": 326423100,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-04-24T13:54:08Z",
-            "open_issues": 10,
-            "owner": "mobadarah",
-            "repo": "tajmeeaton",
-            "stars": 343,
-            "topics": [
-              "arabic",
-              "arabic-font",
-              "arabic-language",
-              "arabic-nlp",
-              "arabic-numbers",
-              "awesome",
-              "awesome-list",
-              "islam"
-            ]
-          },
-          "first_seen": "2026-08-29T00:32:26.923Z"
-        },
-        {
-          "node_type": "item",
           "title": "ar-php",
           "description": "Set of functionalities enable Arabic website developers to serve professional search, present, and process Arabic content in PHP :globe_with_meridians:",
           "children": [],
@@ -144,6 +114,36 @@
               "arabic-sentiment",
               "arabic-sql-queary",
               "php"
+            ]
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tajmeeaton",
+          "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر، للنهوض باللغة العربية والأمة. 👨‍💻 👨‍🔬👨‍🏫🧕",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
+            "homepage": "https://bayoumi.notion.site/52426ea68db64775b83bafc3779351a0?v=305607025bfc80f7baf6000c4f8b4fe8&pvs=73",
+            "id": 326423100,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-04-24T13:54:08Z",
+            "open_issues": 10,
+            "owner": "mobadarah",
+            "repo": "tajmeeaton",
+            "stars": 342,
+            "topics": [
+              "arabic",
+              "arabic-font",
+              "arabic-language",
+              "arabic-nlp",
+              "arabic-numbers",
+              "awesome",
+              "awesome-list",
+              "islam"
             ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:53:24.022Z",
+    "last_updated": "2026-09-08T19:24:29.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
