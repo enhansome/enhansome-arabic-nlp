@@ -214,8 +214,8 @@ Feel free to contribute to this awesome list by submitting a pull request or sug
 
 ***
 
-This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker) ⭐ 43 | 🐛 2 | 🌐 Python | 📅 2026-09-03. It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic.
+This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker) ⭐ 43 | 🐛 2 | 🌐 Python | 📅 2026-09-08. It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
