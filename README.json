@@ -449,7 +449,7 @@
             "open_issues": 0,
             "owner": "motazsaad",
             "repo": "process-arabic-text",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "arabic-nlp",
               "punctuation",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:18:55.276Z",
+    "last_updated": "2026-09-13T18:45:08.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",

@@ -40,7 +40,7 @@ Feel free to contribute to this awesome list by submitting a pull request or sug
 * [Arabic-BERT](https://github.com/alisafaya/Arabic-BERT) ⭐ 133 | 🐛 2 | 📅 2020-12-05 : Arabic edition of BERT pretrained language models
 * [UBC-NLP/marbert](https://github.com/UBC-NLP/marbert) ⭐ 119 | 🐛 5 | 📅 2021-09-02 🌟🌟🌟
   UBC ARBERT and MARBERT Deep Bidirectional Transformers for Arabic.
-* [motazsaad/process-arabic-text](https://github.com/motazsaad/process-arabic-text) ⭐ 108 | 🐛 0 | 🌐 Python | 📅 2017-04-08 🌟🌟🌟
+* [motazsaad/process-arabic-text](https://github.com/motazsaad/process-arabic-text) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2017-04-08 🌟🌟🌟
   Pre-process Arabic text (remove diacritics, punctuations, and repeating characters).
 * [iamaziz/ar-embeddings](https://github.com/iamaziz/ar-embeddings) ⭐ 96 | 🐛 3 | 🌐 Python | 📅 2024-08-20 🌟🌟🌟
   Sentiment Analysis for Arabic Text (tweets, reviews, and standard Arabic) using word2vec.
@@ -218,4 +218,4 @@ This initial version of the Awesome List was generated with the help of the [Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
