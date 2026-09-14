@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "aub-mind",
             "repo": "arabert",
-            "stars": 729,
+            "stars": 730,
             "topics": [
               "arabert",
               "arabic",
@@ -98,8 +98,8 @@
             "id": 231197063,
             "language": "PHP",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-06T11:00:58Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-13T19:04:58Z",
+            "open_issues": 10,
             "owner": "khaled-alshamaa",
             "repo": "ar-php",
             "stars": 342,
@@ -246,7 +246,7 @@
             "open_issues": 66,
             "owner": "ARBML",
             "repo": "masader",
-            "stars": 203,
+            "stars": 204,
             "topics": [
               "arabic-nlp",
               "catalogue",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:45:08.634Z",
+    "last_updated": "2026-09-14T20:16:48.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
