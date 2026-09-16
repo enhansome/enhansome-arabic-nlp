@@ -242,11 +242,11 @@
             "id": 397681089,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T21:51:20Z",
-            "open_issues": 66,
+            "last_commit": "2026-09-15T22:19:58Z",
+            "open_issues": 69,
             "owner": "ARBML",
             "repo": "masader",
-            "stars": 204,
+            "stars": 206,
             "topics": [
               "arabic-nlp",
               "catalogue",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:40:15.046Z",
+    "last_updated": "2026-09-16T19:31:15.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
