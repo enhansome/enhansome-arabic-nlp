@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "aub-mind",
             "repo": "arabert",
-            "stars": 731,
+            "stars": 732,
             "topics": [
               "arabert",
               "arabic",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:31:15.765Z",
+    "last_updated": "2026-09-17T19:42:10.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
