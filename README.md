@@ -26,12 +26,12 @@ Feel free to contribute to this awesome list by submitting a pull request or sug
 * [arabert](https://github.com/aub-mind/arabert) ⭐ 733 | 🐛 2 | 🌐 Python | 📅 2022-10-17 : Pre-trained Transformers for Arabic Language Understanding and Generation (Arabic BERT, Arabic GPT2, Arabic ELECTRA) :star2:
 * [ARBML](https://github.com/ARBML/ARBML) ⭐ 423 | 🐛 10 | 🌐 JavaScript | 📅 2024-03-01 : Implementation of many Arabic NLP and CV projects. Providing real-time experience using many interfaces like web, command line, and notebooks. :computer:
 * [Shakkala](https://github.com/Barqawiz/Shakkala) ⭐ 355 | 🐛 5 | 🌐 Python | 📅 2023-03-25 : Deep learning for AR text Vocalization - التشكيل الالي للنصوص العربية :chart\_with\_upwards\_trend:
-* [tajmeeaton](https://github.com/mobadarah/tajmeeaton) ⭐ 344 | 🐛 10 | 🌐 Python | 📅 2024-04-24 : تجميعة من المشاريع، وخصوصا مفتوحة المصدر، للنهوض باللغة العربية والأمة. 👨‍💻 👨‍🔬👨‍🏫🧕
+* [tajmeeaton](https://github.com/mobadarah/tajmeeaton) ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24 : تجميعة من المشاريع، وخصوصا مفتوحة المصدر، للنهوض باللغة العربية والأمة. 👨‍💻 👨‍🔬👨‍🏫🧕
 * [ar-php](https://github.com/khaled-alshamaa/ar-php) ⭐ 340 | 🐛 10 | 🌐 PHP | 📅 2026-09-13 : Set of functionalities enable Arabic website developers to serve professional search, present, and process Arabic content in PHP :globe\_with\_meridians:
 * [arabic-stop-words](https://github.com/mohataher/arabic-stop-words) ⭐ 334 | 🐛 1 | 📅 2024-03-27 : Largest list of Arabic stop words on GitHub. أكبر قائمة لمستبعدات الفهرسة العربية على جيت هاب :closed\_book:
 * [Hadith-Data-Sets](https://github.com/abdelrahmaan/Hadith-Data-Sets) ⭐ 327 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-04-17 : All Hadith With Tashkil and Without Tashkeel from the Nine Books that are 62,169 Hadith. :book:
 * [Maha](https://github.com/TRoboto/Maha) ⭐ 217 | 🐛 14 | 🌐 Python | 📅 2026-08-31 : Maha is a text processing library specially developed to deal with Arabic text. :scroll:
-* [ARBML/masader](https://github.com/ARBML/masader) ⭐ 208 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-20 🌟🌟🌟  The largest public catalogue for Arabic NLP and speech datasets. Includes +500 datasets annotated with more than 25 attributes.
+* [ARBML/masader](https://github.com/ARBML/masader) ⭐ 208 | 🐛 71 | 🌐 JavaScript | 📅 2026-09-20 🌟🌟🌟  The largest public catalogue for Arabic NLP and speech datasets. Includes +500 datasets annotated with more than 25 attributes.
 * [SOQAL](https://github.com/husseinmozannar/SOQAL) ⭐ 167 | 🐛 5 | 🌐 Python | 📅 2023-08-04 : Arabic Open Domain Question Answering System using Neural Reading Comprehension :question:
 * [MagedSaeed/farasapy](https://github.com/MagedSaeed/farasapy) ⭐ 146 | 🐛 4 | 🌐 Python | 📅 2025-09-11 🌟🌟🌟
   A Python implementation of the Farasa toolkit.
@@ -46,7 +46,7 @@ Feel free to contribute to this awesome list by submitting a pull request or sug
   Sentiment Analysis for Arabic Text (tweets, reviews, and standard Arabic) using word2vec.
 * [saidziani/Arabic-News-Article-Classification](https://github.com/saidziani/Arabic-News-Article-Classification) ⭐ 95 | 🐛 3 | 🌐 Python | 📅 2019-01-01 🌟🌟🌟
   Automatic categorization of documents based on their content using Supervised Machine Learning.
-* [mohabmes/Arabycia](https://github.com/mohabmes/Arabycia) ⭐ 91 | 🐛 4 | 🌐 Python | 📅 2021-02-07 🌟🌟
+* [mohabmes/Arabycia](https://github.com/mohabmes/Arabycia) ⭐ 92 | 🐛 4 | 🌐 Python | 📅 2021-02-07 🌟🌟
   Arabic NLP tool for Text Search, POS tagging, Translation, auto-diacritization, and more.
 * [adhaamehab/textblob-ar](https://github.com/adhaamehab/textblob-ar) ⚠️ Archived 🌟🌟
   Arabic support for textblob library.
@@ -218,4 +218,4 @@ This initial version of the Awesome List was generated with the help of the [Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
