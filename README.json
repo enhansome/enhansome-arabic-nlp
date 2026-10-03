@@ -189,7 +189,7 @@
             "open_issues": 1,
             "owner": "abdelrahmaan",
             "repo": "Hadith-Data-Sets",
-            "stars": 327,
+            "stars": 328,
             "topics": [
               "allah",
               "arabic",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:39:51.793Z",
+    "last_updated": "2026-10-03T04:31:41.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
