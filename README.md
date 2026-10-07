@@ -23,7 +23,7 @@ Feel free to contribute to this awesome list by submitting a pull request or sug
 
 ## GitHub projects
 
-* [arabert](https://github.com/aub-mind/arabert) ⭐ 734 | 🐛 2 | 🌐 Python | 📅 2022-10-17 : Pre-trained Transformers for Arabic Language Understanding and Generation (Arabic BERT, Arabic GPT2, Arabic ELECTRA) :star2:
+* [arabert](https://github.com/aub-mind/arabert) ⭐ 735 | 🐛 2 | 🌐 Python | 📅 2022-10-17 : Pre-trained Transformers for Arabic Language Understanding and Generation (Arabic BERT, Arabic GPT2, Arabic ELECTRA) :star2:
 * [ARBML](https://github.com/ARBML/ARBML) ⭐ 423 | 🐛 10 | 🌐 JavaScript | 📅 2024-03-01 : Implementation of many Arabic NLP and CV projects. Providing real-time experience using many interfaces like web, command line, and notebooks. :computer:
 * [Shakkala](https://github.com/Barqawiz/Shakkala) ⭐ 355 | 🐛 5 | 🌐 Python | 📅 2023-03-25 : Deep learning for AR text Vocalization - التشكيل الالي للنصوص العربية :chart\_with\_upwards\_trend:
 * [tajmeeaton](https://github.com/mobadarah/tajmeeaton) ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24 : تجميعة من المشاريع، وخصوصا مفتوحة المصدر، للنهوض باللغة العربية والأمة. 👨‍💻 👨‍🔬👨‍🏫🧕
@@ -38,7 +38,7 @@ Feel free to contribute to this awesome list by submitting a pull request or sug
 * [Qutuf/Qutuf](https://github.com/Qutuf/Qutuf) ⭐ 138 | 🐛 5 | 🌐 Python | 📅 2022-12-12 🌟🌟🌟
   Qutuf (قُطُوْف): An Arabic Morphological analyzer and Part-Of-Speech tagger as an Expert System.
 * [Arabic-BERT](https://github.com/alisafaya/Arabic-BERT) ⭐ 133 | 🐛 2 | 📅 2020-12-05 : Arabic edition of BERT pretrained language models
-* [UBC-NLP/marbert](https://github.com/UBC-NLP/marbert) ⭐ 119 | 🐛 5 | 📅 2021-09-02 🌟🌟🌟
+* [UBC-NLP/marbert](https://github.com/UBC-NLP/marbert) ⭐ 120 | 🐛 5 | 📅 2021-09-02 🌟🌟🌟
   UBC ARBERT and MARBERT Deep Bidirectional Transformers for Arabic.
 * [motazsaad/process-arabic-text](https://github.com/motazsaad/process-arabic-text) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2017-04-08 🌟🌟🌟
   Pre-process Arabic text (remove diacritics, punctuations, and repeating characters).
@@ -214,8 +214,8 @@ Feel free to contribute to this awesome list by submitting a pull request or sug
 
 ***
 
-This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2026-10-06. It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic.
+This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2026-10-07. It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
