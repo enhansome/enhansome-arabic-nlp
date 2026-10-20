@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:00:15.528Z",
+    "last_updated": "2026-10-20T19:58:08.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
@@ -617,7 +617,7 @@
       "language": null,
       "license": null,
       "last_commit": "2023-10-30T17:34:40Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-arabic-nlp",
       "stars": 65,
