@@ -23,16 +23,16 @@ Feel free to contribute to this awesome list by submitting a pull request or sug
 
 ## GitHub projects
 
-* [arabert](https://github.com/aub-mind/arabert) ⭐ 736 | 🐛 2 | 🌐 Python | 📅 2022-10-17 : Pre-trained Transformers for Arabic Language Understanding and Generation (Arabic BERT, Arabic GPT2, Arabic ELECTRA) :star2:
-* [ARBML](https://github.com/ARBML/ARBML) ⭐ 423 | 🐛 10 | 🌐 JavaScript | 📅 2024-03-01 : Implementation of many Arabic NLP and CV projects. Providing real-time experience using many interfaces like web, command line, and notebooks. :computer:
+* [arabert](https://github.com/aub-mind/arabert) ⭐ 735 | 🐛 2 | 🌐 Python | 📅 2022-10-17 : Pre-trained Transformers for Arabic Language Understanding and Generation (Arabic BERT, Arabic GPT2, Arabic ELECTRA) :star2:
+* [ARBML](https://github.com/ARBML/ARBML) ⭐ 422 | 🐛 10 | 🌐 JavaScript | 📅 2024-03-01 : Implementation of many Arabic NLP and CV projects. Providing real-time experience using many interfaces like web, command line, and notebooks. :computer:
 * [Shakkala](https://github.com/Barqawiz/Shakkala) ⭐ 355 | 🐛 5 | 🌐 Python | 📅 2023-03-25 : Deep learning for AR text Vocalization - التشكيل الالي للنصوص العربية :chart\_with\_upwards\_trend:
-* [tajmeeaton](https://github.com/mobadarah/tajmeeaton) ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24 : تجميعة من المشاريع، وخصوصا مفتوحة المصدر، للنهوض باللغة العربية والأمة. 👨‍💻 👨‍🔬👨‍🏫🧕
+* [tajmeeaton](https://github.com/mobadarah/tajmeeaton) ⭐ 343 | 🐛 9 | 🌐 Python | 📅 2024-04-24 : تجميعة من المشاريع، وخصوصا مفتوحة المصدر، للنهوض باللغة العربية والأمة. 👨‍💻 👨‍🔬👨‍🏫🧕
 * [ar-php](https://github.com/khaled-alshamaa/ar-php) ⭐ 340 | 🐛 10 | 🌐 PHP | 📅 2026-09-13 : Set of functionalities enable Arabic website developers to serve professional search, present, and process Arabic content in PHP :globe\_with\_meridians:
 * [arabic-stop-words](https://github.com/mohataher/arabic-stop-words) ⭐ 334 | 🐛 1 | 📅 2024-03-27 : Largest list of Arabic stop words on GitHub. أكبر قائمة لمستبعدات الفهرسة العربية على جيت هاب :closed\_book:
 * [Hadith-Data-Sets](https://github.com/abdelrahmaan/Hadith-Data-Sets) ⭐ 330 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-04-17 : All Hadith With Tashkil and Without Tashkeel from the Nine Books that are 62,169 Hadith. :book:
 * [Maha](https://github.com/TRoboto/Maha) ⭐ 217 | 🐛 14 | 🌐 Python | 📅 2026-10-19 : Maha is a text processing library specially developed to deal with Arabic text. :scroll:
 * [ARBML/masader](https://github.com/ARBML/masader) ⭐ 208 | 🐛 70 | 🌐 JavaScript | 📅 2026-10-05 🌟🌟🌟  The largest public catalogue for Arabic NLP and speech datasets. Includes +500 datasets annotated with more than 25 attributes.
-* [SOQAL](https://github.com/husseinmozannar/SOQAL) ⭐ 167 | 🐛 5 | 🌐 Python | 📅 2023-08-04 : Arabic Open Domain Question Answering System using Neural Reading Comprehension :question:
+* [SOQAL](https://github.com/husseinmozannar/SOQAL) ⭐ 166 | 🐛 5 | 🌐 Python | 📅 2023-08-04 : Arabic Open Domain Question Answering System using Neural Reading Comprehension :question:
 * [MagedSaeed/farasapy](https://github.com/MagedSaeed/farasapy) ⭐ 146 | 🐛 4 | 🌐 Python | 📅 2025-09-11 🌟🌟🌟
   A Python implementation of the Farasa toolkit.
 * [Qutuf/Qutuf](https://github.com/Qutuf/Qutuf) ⭐ 138 | 🐛 5 | 🌐 Python | 📅 2022-12-12 🌟🌟🌟
@@ -218,4 +218,4 @@ This initial version of the Awesome List was generated with the help of the [Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

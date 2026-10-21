@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "aub-mind",
             "repo": "arabert",
-            "stars": 736,
+            "stars": 735,
             "topics": [
               "arabert",
               "arabic",
@@ -50,7 +50,7 @@
             "open_issues": 10,
             "owner": "ARBML",
             "repo": "ARBML",
-            "stars": 423,
+            "stars": 422,
             "topics": [
               "arabic",
               "arabic-nlp",
@@ -102,7 +102,7 @@
             "open_issues": 9,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "arabic",
               "arabic-font",
@@ -272,7 +272,7 @@
             "open_issues": 5,
             "owner": "husseinmozannar",
             "repo": "SOQAL",
-            "stars": 167,
+            "stars": 166,
             "topics": [
               "arabic",
               "arabic-language",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:58:08.041Z",
+    "last_updated": "2026-10-21T20:04:59.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
