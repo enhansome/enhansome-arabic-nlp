@@ -189,7 +189,7 @@
             "open_issues": 1,
             "owner": "abdelrahmaan",
             "repo": "Hadith-Data-Sets",
-            "stars": 330,
+            "stars": 329,
             "topics": [
               "allah",
               "arabic",
@@ -474,7 +474,7 @@
             "open_issues": 3,
             "owner": "iamaziz",
             "repo": "ar-embeddings",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "arabic",
               "arabic-embedding",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:44:56.347Z",
+    "last_updated": "2026-10-25T18:57:27.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
