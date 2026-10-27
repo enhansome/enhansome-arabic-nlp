@@ -32,7 +32,7 @@ Feel free to contribute to this awesome list by submitting a pull request or sug
 * [Hadith-Data-Sets](https://github.com/abdelrahmaan/Hadith-Data-Sets) ⭐ 329 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-04-17 : All Hadith With Tashkil and Without Tashkeel from the Nine Books that are 62,169 Hadith. :book:
 * [Maha](https://github.com/TRoboto/Maha) ⭐ 217 | 🐛 14 | 🌐 Python | 📅 2026-10-19 : Maha is a text processing library specially developed to deal with Arabic text. :scroll:
 * [ARBML/masader](https://github.com/ARBML/masader) ⭐ 208 | 🐛 70 | 🌐 JavaScript | 📅 2026-10-05 🌟🌟🌟  The largest public catalogue for Arabic NLP and speech datasets. Includes +500 datasets annotated with more than 25 attributes.
-* [SOQAL](https://github.com/husseinmozannar/SOQAL) ⭐ 166 | 🐛 5 | 🌐 Python | 📅 2023-08-04 : Arabic Open Domain Question Answering System using Neural Reading Comprehension :question:
+* [SOQAL](https://github.com/husseinmozannar/SOQAL) ⭐ 166 | 🐛 4 | 🌐 Python | 📅 2023-08-04 : Arabic Open Domain Question Answering System using Neural Reading Comprehension :question:
 * [MagedSaeed/farasapy](https://github.com/MagedSaeed/farasapy) ⭐ 146 | 🐛 4 | 🌐 Python | 📅 2025-09-11 🌟🌟🌟
   A Python implementation of the Farasa toolkit.
 * [Qutuf/Qutuf](https://github.com/Qutuf/Qutuf) ⭐ 138 | 🐛 5 | 🌐 Python | 📅 2022-12-12 🌟🌟🌟
@@ -218,4 +218,4 @@ This initial version of the Awesome List was generated with the help of the [Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
