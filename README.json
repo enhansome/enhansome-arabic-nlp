@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "aub-mind",
             "repo": "arabert",
-            "stars": 735,
+            "stars": 736,
             "topics": [
               "arabert",
               "arabic",
@@ -88,6 +88,38 @@
         },
         {
           "node_type": "item",
+          "title": "ar-php",
+          "description": "Set of functionalities enable Arabic website developers to serve professional search, present, and process Arabic content in PHP :globe_with_meridians:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Set of functionalities enable Arabic website developers to serve professional search, present and process Arabic content in PHP",
+            "homepage": null,
+            "id": 231197063,
+            "language": "PHP",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-09-13T19:04:58Z",
+            "open_issues": 10,
+            "owner": "khaled-alshamaa",
+            "repo": "ar-php",
+            "stars": 343,
+            "topics": [
+              "ar-php",
+              "arabic",
+              "arabic-calendar",
+              "arabic-glyphs",
+              "arabic-nlp",
+              "arabic-numbers",
+              "arabic-segments-identifier",
+              "arabic-sentiment",
+              "arabic-sql-queary",
+              "php"
+            ]
+          },
+          "first_seen": "2026-08-29T00:32:26.923Z"
+        },
+        {
+          "node_type": "item",
           "title": "tajmeeaton",
           "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر، للنهوض باللغة العربية والأمة. 👨‍💻 👨‍🔬👨‍🏫🧕",
           "children": [],
@@ -112,38 +144,6 @@
               "awesome",
               "awesome-list",
               "islam"
-            ]
-          },
-          "first_seen": "2026-08-29T00:32:26.923Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ar-php",
-          "description": "Set of functionalities enable Arabic website developers to serve professional search, present, and process Arabic content in PHP :globe_with_meridians:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Set of functionalities enable Arabic website developers to serve professional search, present and process Arabic content in PHP",
-            "homepage": null,
-            "id": 231197063,
-            "language": "PHP",
-            "license": "LGPL-3.0",
-            "last_commit": "2026-09-13T19:04:58Z",
-            "open_issues": 10,
-            "owner": "khaled-alshamaa",
-            "repo": "ar-php",
-            "stars": 342,
-            "topics": [
-              "ar-php",
-              "arabic",
-              "arabic-calendar",
-              "arabic-glyphs",
-              "arabic-nlp",
-              "arabic-numbers",
-              "arabic-segments-identifier",
-              "arabic-sentiment",
-              "arabic-sql-queary",
-              "php"
             ]
           },
           "first_seen": "2026-08-29T00:32:26.923Z"
@@ -189,7 +189,7 @@
             "open_issues": 1,
             "owner": "abdelrahmaan",
             "repo": "Hadith-Data-Sets",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "allah",
               "arabic",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:54:44.287Z",
+    "last_updated": "2026-11-01T20:27:03.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
@@ -620,7 +620,7 @@
       "open_issues": 5,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-arabic-nlp",
-      "stars": 65,
+      "stars": 64,
       "topics": [
         "arabic",
         "arabic-language",
