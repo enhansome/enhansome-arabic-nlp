@@ -216,7 +216,7 @@
             "id": 370866767,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-19T17:40:07Z",
+            "last_commit": "2026-11-02T17:47:02Z",
             "open_issues": 14,
             "owner": "TRoboto",
             "repo": "Maha",
@@ -242,8 +242,8 @@
             "id": 397681089,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T11:34:35Z",
-            "open_issues": 70,
+            "last_commit": "2026-11-02T10:33:44Z",
+            "open_issues": 71,
             "owner": "ARBML",
             "repo": "masader",
             "stars": 208,
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T20:27:03.564Z",
+    "last_updated": "2026-11-02T23:26:56.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
