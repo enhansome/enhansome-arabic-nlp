@@ -404,7 +404,7 @@
             "language": null,
             "license": null,
             "last_commit": "2021-09-02T18:02:00Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "UBC-NLP",
             "repo": "marbert",
             "stars": 120,
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:56:50.542Z",
+    "last_updated": "2026-11-06T21:26:58.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
