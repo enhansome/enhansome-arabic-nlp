@@ -50,7 +50,7 @@
             "open_issues": 10,
             "owner": "ARBML",
             "repo": "ARBML",
-            "stars": 422,
+            "stars": 421,
             "topics": [
               "arabic",
               "arabic-nlp",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:28:16.709Z",
+    "last_updated": "2026-11-18T22:55:24.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
