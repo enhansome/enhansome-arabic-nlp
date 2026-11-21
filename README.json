@@ -76,7 +76,7 @@
             "open_issues": 5,
             "owner": "Barqawiz",
             "repo": "Shakkala",
-            "stars": 355,
+            "stars": 354,
             "topics": [
               "arabic-nlp",
               "deep-learning",
@@ -102,7 +102,7 @@
             "open_issues": 9,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "arabic",
               "arabic-font",
@@ -559,7 +559,7 @@
             "open_issues": 17,
             "owner": "adhaamehab",
             "repo": "textblob-ar",
-            "stars": 87,
+            "stars": 86,
             "topics": [
               "arabic-language",
               "arabic-nlp",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:37:43.576Z",
+    "last_updated": "2026-11-21T21:36:30.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
