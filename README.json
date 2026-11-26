@@ -102,7 +102,7 @@
             "open_issues": 9,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "arabic",
               "arabic-font",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T00:35:09.006Z",
+    "last_updated": "2026-11-26T00:14:21.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "Dive into the world of Arabic NLP with this extensive collection of resources, tools, datasets, and best practices tailored for the Arabic language.",
